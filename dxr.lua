@@ -2,6 +2,7 @@
 -- DXR V2 | Black & Red GUI
 -- For a Roblox Studio project you own
 
+loadstring(game:HttpGet("https://scriptblox
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
 
